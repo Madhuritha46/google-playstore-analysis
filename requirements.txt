@@ -6,4 +6,4 @@ plotly
 streamlit
 textblob
 wordcloud
-scikit-learns
+scikit-learn
