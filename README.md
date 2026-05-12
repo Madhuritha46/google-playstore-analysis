@@ -1,7 +1,7 @@
 # 📱 Google Play Store Analytics Dashboard
 
 ### 🚀 Live Demo
-🔗 https://your-app-name.streamlit.app
+🔗(https://app-playstore-analysis-tksggbjtcsdecvhvqmu5gm.streamlit.app/)
 
 ---
 
