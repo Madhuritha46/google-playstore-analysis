@@ -73,11 +73,7 @@ http://localhost:8501
 
 ---
 
-## 📸 Dashboard Preview
 
-(Add screenshots here)
-
----
 
 ## 👨‍💻 Author
 
